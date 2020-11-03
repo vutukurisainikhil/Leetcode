@@ -1,4 +1,4 @@
-'''Question
+```cpp Question
 Given a string s, the power of the string is the maximum length of a non-empty substring that contains only one unique character.
 
 Return the power of the string.
@@ -33,7 +33,7 @@ s contains only lowercase English letters.
 ''''
 
 #**CPP CODE**
-'''CPP
+```cpp
 class Solution {
 	public:
 	int maxPower(string s) {
@@ -54,4 +54,4 @@ class Solution {
 	return max_count;
 	}
 };
-'''
+```

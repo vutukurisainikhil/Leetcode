@@ -1,4 +1,4 @@
-'''Question
+```cpp Question
 Sort a linked list using insertion sort.
 
 Algorithm of Insertion Sort:
@@ -16,10 +16,10 @@ Example 2:
 Input: -1->5->3->4->0
 Output: -1->0->3->4->5
 
-''''
+```
 
 #**CPP CODE**
-'''CPP
+```cpp
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -63,4 +63,4 @@ public:
       return head;
     }
 };
-'''
+```
